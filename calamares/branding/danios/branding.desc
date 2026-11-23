@@ -1,0 +1,34 @@
+---
+componentName: danios
+
+welcomeStyleCalamares: false
+welcomeExpandingLogo: true
+windowExpanding: normal
+windowSize: 900px,600px
+windowPlacement: center
+
+sidebar: widget
+navigation: widget
+
+strings:
+    productName:         DaniOS
+    shortProductName:    DaniOS
+    version:             1.0
+    shortVersion:        1.0
+    versionedName:       DaniOS 1.0 "Café"
+    shortVersionedName:  DaniOS 1.0
+    bootloaderEntryName: DaniOS
+    productUrl:          https://danios.local
+    supportUrl:          https://danios.local/soporte
+    knownIssuesUrl:      https://danios.local/errores
+    releaseNotesUrl:     https://danios.local/notas
+
+images:
+    productLogo:         logo.png
+    productIcon:         logo.png
+    productWelcome:      welcome.png
+
+style:
+    SidebarBackground:   "#0b1020"
+    SidebarText:         "#e5e7eb"
+    SidebarTextSelect:   "#22d3ee"
